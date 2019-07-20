@@ -6,7 +6,7 @@
 	
 		dockerfile             --制作docker镜像
 		namespace_create.yaml  --k8s ns创建文件
-		service.yaml 	       --k8s svc创建文件
+		service.yaml 	        --k8s svc创建文件
 		ingress.yaml           --k8s ingress route创建文件
 		deployment.yaml        --pod部署文件
 
